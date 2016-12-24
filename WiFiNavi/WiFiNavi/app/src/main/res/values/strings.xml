@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WiFiNavi</string>
+
+    <string name="hello_world">Here goes the guide!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_update">Rescan</string>
+    <string name="menu_site_survey">Site Survey</string>
+    <string name="auto_update_prompt">Force to refresh with user-defined frequency.</string>
+
+    <string name="title_activity_preferences">Preferences</string>
+
+</resources>

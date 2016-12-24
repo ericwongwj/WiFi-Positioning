@@ -1,0 +1,10 @@
+-71	-53	-74	-49	-32	-70	null	null	null	null	null	null	null	null		32.54,7.08,0.0;
+-43	-55	null	-58	null	-51	-80	-90	-70	null	null	null	-83	null		1.55,0.96,0.0;
+-57	-50	-45	-53	-68	-69	null	null	-71	null	-74	null	null	null		10.62,3.87,0.0;
+-62	-41	null	-56	-47	-68	null	null	-55	-78	null	null	null	null		12.55,7.38,0.0;
+-63	-61	-59	-55	-59	null	null	null	-77	null	null	null	null	null		23.90,7.0,0.0;
+-60	-59	-60	-54	-49	-77	null	null	-82	null	-61	null	null	null		22.76,5.06,0.0;
+null	-58	-66	-65	-62	-46	-87	-90	-77	null	null	null	-82	null		2.49,7.6,0.0;
+-65	-56	-58	-54	null	-71	null	null	-76	null	-66	null	null	null		23.24,7.50,0.0;
+-48	-51	-62	-62	-61	-49	null	null	-61	null	-78	null	null	null		1.39,6.61,0.0;
+-54	-63	-57	-51	null	-72	null	null	-76	null	null	null	-64	null		23.36,3.40,0.0;

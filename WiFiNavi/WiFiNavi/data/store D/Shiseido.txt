@@ -1,0 +1,11 @@
+t = 2015-07-10 01:49:56;dejiplaza:-80;
+t = 2015-07-10 01:49:59;DejiPOS:-93;dejiplaza:-93;hf-r:-92;DejiPOS:-91;hf-rt:-91;DejiPOS:-90;dejiplaza:-84;dejiplaza:-84;DejiPOS:-83;LAFAYETTE148-1:-82;dejiplaza:-79;
+t = 2015-07-10 01:50:02;and-free:-98;OMEYWiFi:-94;VOV:-92;DejiPOS:-90;dejiplaza:-90;PAULE-KA:-90;dejiplaza:-90;dejiplaza:-88;SW:-87;DejiPOS:-87;dejiplaza:-84;DejiPOS:-84;aWiFi-aizai:-83;dejiplaza:-82;Unicross_NJ GA363:-81;DejiPOS:-80;dejiplaza:-79;dejiplaza:-76;DejiSH:-74;
+t = 2015-07-10 01:50:05;and-free:-98;OMEYWiFi:-94;hf-rt:-94;DejiPOS:-94;hf-c:-93;VOV:-92;PAULE-KA:-90;dejiplaza:-90;SW:-87;DejiPOS:-87;TP-LINK_5D53A4:-87;DejiPOS:-87;DejiPOS:-85;aWiFi-aizai:-85;dejiplaza:-85;DejiPOS:-84;DejiPOS:-83;aWiFi-aizai:-83;LAFAYETTE148-1:-83;DejiPOS:-83;F123:-83;dejiplaza:-82;DejiPOS:-82;aWiFi-aizai:-82;DejiSH:-80;Unicross_NJ GA363:-78;dejiplaza:-76;
+t = 2015-07-10 01:50:08;
+t = 2015-07-10 01:50:11;dejiplaza:-90;dejiplaza:-86;dejiplaza:-82;
+t = 2015-07-10 01:50:14;DejiPOS:-93;DejiPOS:-88;DejiPOS:-88;F123:-86;dejiplaza:-86;DejiSH:-84;dejiplaza:-83;aWiFi-aizai:-83;dejiplaza:-79;
+t = 2015-07-10 01:50:17;NO SIGNAL:-95;GDV-NJDJ:-95;DejiPOS:-92;dejiplaza:-92;DejiPOS:-91;hf-rt:-90;OMEYWiFi:-89;dejiplaza:-89;dejiplaza:-87;dejiplaza:-82;dejiplaza:-81;dejiplaza:-73;
+t = 2015-07-10 01:50:20;GDV-NJDJ:-95;hf-r:-95;dejiplaza:-92;DejiPOS:-91;hf-rt:-90;dejiplaza:-90;DejiPOS:-89;OMEYWiFi:-89;DejiPOS:-89;DejiSH:-88;dejiplaza:-88;dejiplaza:-87;dejiplaza:-86;DejiPOS:-86;NO SIGNAL:-83;dejiplaza:-82;dejiplaza:-79;dejiplaza:-77;dejiplaza:-77;dejiplaza:-74;dejiplaza:-73;
+t = 2015-07-10 01:50:23;hf-r:-95;p+:-95;sergiorossi:-95;DejiPOS:-93;DejiPOS:-92;DejiSH:-91;aWiFi-aizai:-91;dejiplaza:-91;dejiplaza:-90;dejiplaza:-90;TP-LINK_5D53A4:-90;DejiPOS:-89;DejiPOS:-88;dejiplaza:-87;dejiplaza:-85;dejiplaza:-85;DejiPOS:-81;dejiplaza:-77;dejiplaza:-77;dejiplaza:-77;
+t = 2015-07-10 01:50:26;hf-c:-96;p+:-95;sergiorossi:-95;DejiPOS:-93;DejiPOS:-92;dejiplaza:-91;TP-LINK_5D53A4:-90;dejiplaza:-89;DejiPOS:-89;NO SIGNAL:-88;DejiSH:-88;dejiplaza:-87;DejiPOS:-87;DejiSH:-86;dejiplaza:-85;dejiplaza:-85;DejiPOS:-84;DejiPOS:-83;DejiPOS:-83;dejiplaza:-83;F123:-82;DejiPOS:-82;aWiFi-aizai:-81;IGER:-81;dejiplaza:-80;dejiplaza:-78;dejiplaza:-76;dejiplaza:-73;dejiplaza:-67;

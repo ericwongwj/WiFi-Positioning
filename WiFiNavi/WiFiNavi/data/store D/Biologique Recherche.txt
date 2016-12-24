@@ -1,0 +1,10 @@
+t = 2015-07-10 01:53:23;
+t = 2015-07-10 01:53:26;dejiplaza:-90;dejiplaza:-75;
+t = 2015-07-10 01:53:29;DejiPOS:-95;dejiplaza:-92;dejiplaza:-80;
+t = 2015-07-10 01:53:32;DejiPOS:-95;p+:-91;Longchamp:-87;DejiPOS:-83;dejiplaza:-83;DejiPOS:-79;DejiPOS:-77;innisfree_njdjgc:-77;TP-LINK yifu:-77;dejiplaza:-77;mumeng:-76;DejiSH:-76;dejiplaza:-76;DejiSH:-74;whoo:-74;dejiplaza:-70;GDV-NJDJ:-68;aWiFi-aizai:-66;dejiplaza:-64;DejiPOS:-62;aWiFi-aizai:-61;OMEYWiFi:-59;dejiplaza:-59;DejiPOS:-58;Biologique-Recherche:-57;dejiplaza:-51;DejiPOS:-51;dejiplaza:-51;DejiPOS:-48;
+t = 2015-07-10 01:53:35;
+t = 2015-07-10 01:53:38;DejiPOS:-98;aWiFi-aizai:-87;
+t = 2015-07-10 01:53:41;DejiPOS:-98;dejiplaza:-86;Longchamp:-85;aWiFi-aizai:-84;dejiplaza:-83;TP-LINK yifu:-82;DejiPOS:-80;DejiPOS:-80;dejiplaza:-79;DejiPOS:-79;innisfree_njdjgc:-78;DejiPOS:-77;mumeng:-76;DejiSH:-76;DejiPOS:-75;dejiplaza:-75;DejiSH:-73;PAULE-KA:-73;GDV-NJDJ:-72;dejiplaza:-70;p+:-69;aWiFi-aizai:-68;DejiPOS:-65;dejiplaza:-62;aWiFi-aizai:-61;DejiPOS:-61;OMEYWiFi:-59;DejiPOS:-58;Biologique-Recherche:-55;dejiplaza:-53;DejiPOS:-50;DejiPOS:-47;dejiplaza:-47;
+t = 2015-07-10 01:53:44;Longchamp:-97;DejiPOS:-96;dejiplaza:-94;innisfree_njdjgc:-92;DejiPOS:-88;DejiPOS:-85;dejiplaza:-82;p+:-79;PAULE-KA:-79;mumeng:-77;DejiPOS:-74;DejiSH:-73;dejiplaza:-72;dejiplaza:-72;DejiPOS:-71;DejiPOS:-71;DejiSH:-70;dejiplaza:-70;aWiFi-aizai:-69;whoo:-69;aWiFi-aizai:-66;DejiPOS:-66;GDV-NJDJ:-65;DejiPOS:-64;OMEYWiFi:-59;Biologique-Recherche:-58;dejiplaza:-49;DejiPOS:-48;DejiPOS:-47;dejiplaza:-47;DejiPOS:-44;dejiplaza:-44;
+t = 2015-07-10 01:53:47;
+t = 2015-07-10 01:53:50;
