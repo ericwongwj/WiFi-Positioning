@@ -1,0 +1,1 @@
+代码写的比较乱，总体架构就是OfflineData，OnlineData，TestPositioning主要的类。Constant类中都是已经处理过提取出来的数据。定位的方法为方便写在了TestPositioning类中。<br>定位的方法主要是KNN/WKNN以及一些改进，如使用Penalty，设置数据的参数等等，以及基于直方图的概率算法，代码中的方法名都已经比较清晰。<br>处理结果不保证绝对正确，代码也有很大改进空间，也可以自己实现一遍。
